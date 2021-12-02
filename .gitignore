@@ -78,3 +78,15 @@ ProjectDoge/Assets/Prefabs/Tiger Drago Simple Baby.prefab
 ProjectDoge/Assets/Prefabs/Tiger Drago Simple Baby.prefab.meta
 ProjectDoge/Temp/
 ProjectDoge/Assets/Massive Game Music Collection/
+*.mat
+*.meta
+*.asset
+*.fbx
+*.prefab
+*.terrainlayer
+*.anim
+*.wav
+*.controller
+*.unity
+*.png
+*.shader
