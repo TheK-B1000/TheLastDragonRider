@@ -92,3 +92,6 @@ ProjectDoge/Assets/Massive Game Music Collection/
 *.shader
 *.psd
 Assets/ExplosiveLLC
+*.ht
+*.ttf
+*.ogg
